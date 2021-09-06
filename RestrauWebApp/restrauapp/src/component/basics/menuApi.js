@@ -136,6 +136,18 @@ const Menu = [
         
         description: "This is a less  spicy dish with  curd,pickle and papad in addition.",
     },
+
+    {
+        id: 15,
+        image: "image/dessert1.png",
+        name: " Roshogulla",
+        price: "$15(per piece)",
+        category: "Dessert",
+        
+        description: "This speciality from West Bengal is too sweet and juicy.",
+    },
+
+    
 ];
 
 export default Menu;
