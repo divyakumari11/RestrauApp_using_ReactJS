@@ -12,7 +12,7 @@ const Menu = [
         image: "image/lunch1.png",
         name: "Veg Biryani with mint Raita",
         price: "$250",
-        category: "lunch",
+        category: "Lunch",
         
         description: "This is the most famous hyderabadi biryani for vegetarian foodies.Enjoy your meal and do share with us your experience.Enjoy your meal .",
     },
@@ -21,7 +21,7 @@ const Menu = [
         image: "image/lunch3.png",
         name: "Chole Masale",
         price: "$190",
-        category: "lunch",
+        category: "Lunch",
         
         description: "A speciality from northern part of India and guilty pleasure of every fitness freak.Served with Bhature(2pc) and curd .It is a delight .",
     },
@@ -30,7 +30,7 @@ const Menu = [
         image: "image/dinner1.png",
         name: "Shrimp Pasta with Manchurian",
         price: "$350",
-        category: "dinner",
+        category: "Dinner",
         
         description: "Famous sea food from Goa,and a superb dish from our chef. It is a combo pack served with additional sausages and pastas .",
     },
@@ -48,7 +48,7 @@ const Menu = [
         image: "image/dinner2.png",
         name: " Korean Shrimp Manchurian",
         price: "$250",
-        category: "dinner",
+        category: "Dinner",
         
         description: "Hot and spicy..just as you would like to have Manchurian.Enjoy your meal .",
     },
@@ -114,7 +114,7 @@ const Menu = [
         image: "image/brkfst5.png",
         name: " Palak Paneer",
         price: "$265",
-        category: "Lunch",
+        category: "Dinner",
         
         description: "This is a spicy dish with  rice in addition.",
     },
